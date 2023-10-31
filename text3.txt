@@ -1,1 +1,4 @@
-git ad
+creating a  editing a file and clone in to git 
+add
+commit 
+push
